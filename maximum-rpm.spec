@@ -7,6 +7,7 @@ Group:		Documentation
 Source0:	%{name}-%{version}.tar.gz
 BuildArch:	noarch
 BuildRequires:	docbook-utils
+BuildRequires:	docbook-dtd41-sgml
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
