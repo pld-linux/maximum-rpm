@@ -2,7 +2,7 @@ Summary:	The "Maximum RPM" book
 Summary(pl):	Ksi±¿ka "Maximum RPM"
 Name:		maximum-rpm
 Version:	1.0
-Release:	0.20010429
+Release:	0.20010429.1
 License:	OPL
 Group:		Documentation
 Source0:	%{name}-%{version}.tar.gz
