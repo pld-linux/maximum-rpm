@@ -5,9 +5,9 @@ Version:	1.0
 Release:	0.20010429.1
 License:	OPL
 Group:		Documentation
-URL:		http://www.rpm.org/max-rpm/
 Source0:	%{name}-%{version}.tar.gz
 # Source0-md5:	41c329eb4129f0cb5b3c47d42fa5c664
+URL:		http://www.rpm.org/max-rpm/
 BuildRequires:	docbook-dtd41-sgml
 BuildRequires:	docbook-utils
 BuildArch:	noarch
