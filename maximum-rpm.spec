@@ -1,5 +1,5 @@
 Summary:	The "Maximum RPM" book
-Summary(pl):	Ksi±¿ka "Maximum RPM"
+Summary(pl.UTF-8):   KsiÄ…Å¼ka "Maximum RPM"
 Name:		maximum-rpm
 Version:	1.0
 Release:	0.20010429.1
@@ -21,16 +21,16 @@ The book is divided into two major sections. The first section is for
 anyone who needs to use RPM on his/her system. The second section
 covers all there is to know about build packages using RPM.
 
-%description -l pl
-"Maximum RPM" to ksi±¿ka o Zarz±dcy Pakietów RPM (RPM Package Manager)
-lub, miêdzy przyjació³mi, RPM-ie.
+%description -l pl.UTF-8
+"Maximum RPM" to ksiÄ…Å¼ka o ZarzÄ…dcy PakietÃ³w RPM (RPM Package Manager)
+lub, miÄ™dzy przyjaciÃ³Å‚mi, RPM-ie.
 
-Ksi±¿ka ta podzielona jest na dwa g³ówne rozdzia³y. Pierwszy jest
-przeznaczony dla ka¿dego, kto potrzebuje RPM-a w swoim systemie. Drugi
-pokrywa wszystko co mo¿e byæ powiedziane o budowania pakietów z
-u¿yciem RPM-a.
+KsiÄ…Å¼ka ta podzielona jest na dwa gÅ‚Ã³wne rozdziaÅ‚y. Pierwszy jest
+przeznaczony dla kaÅ¼dego, kto potrzebuje RPM-a w swoim systemie. Drugi
+pokrywa wszystko co moÅ¼e byÄ‡ powiedziane o budowania pakietÃ³w z
+uÅ¼yciem RPM-a.
 
-Ksi±¿ka jest napisana w jêzyku angielskim.
+KsiÄ…Å¼ka jest napisana w jÄ™zyku angielskim.
 
 %prep
 %setup -q
