@@ -1,5 +1,5 @@
 Summary:	The "Maximum RPM" book
-Summary(pl.UTF-8):   Książka "Maximum RPM"
+Summary(pl.UTF-8):	Książka "Maximum RPM"
 Name:		maximum-rpm
 Version:	1.0
 Release:	0.20010429.1
